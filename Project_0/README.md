@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](______)
+:arrow_up:[к оглавлению](https://github.com/Xeniabestlook/sf_training/tree/main/Project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -30,4 +30,4 @@
 ### Краткая информация о данных
 .....
 
-:arrow_up:[к оглавлению](___________)
+:arrow_up:[к оглавлению](https://github.com/Xeniabestlook/sf_training/tree/main/Project_0/README.md#Оглавление)
