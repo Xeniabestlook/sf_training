@@ -1,0 +1,2 @@
+min number = 1
+max number = 8
