@@ -43,9 +43,7 @@
 Практикуем на реальном кейсе базовый анализ структуры данных, преобразование данных, разведывательный анализ (визуализация), очистку данных
 
 ### Краткая информация о данных
-Сссылка на датасет:
-
-https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
+[Сссылка на исходный датасет:](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 
 &uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
@@ -59,11 +57,12 @@ https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=shari
 &uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Результат
-.....
+Проведена обработка датасета очистка от выбросов, заполнение пропусков 
 
 &uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Выводы
-.....
+Получены навыки работы с базами данных в Pandas
+[Сссылка на обработанный датасет:](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/Data/hh_cleaned.csv)
 
 &uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
