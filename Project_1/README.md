@@ -1,17 +1,17 @@
 # Проект 1. Анализ вакансий hh
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Xeniabestlook/sf_training/tree/main/Project_0/README.md#Описание-проекта)
-[2. Какой кейс решаем](https://github.com/Xeniabestlook/sf_training/tree/main/Project_0/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/Xeniabestlook/sf_training/tree/main/Project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/Xeniabestlook/sf_training/tree/main/Project_0/README.md#Этапы-работы-над-проектом)
-[5. Результат](https://github.com/Xeniabestlook/sf_training/tree/main/Project_0/README.md#Результат)
-[4. Выводы](https://github.com/Xeniabestlook/sf_training/tree/main/Project_0/README.md#Выводы)
+[1. Описание проекта](https://github.com/Xeniabestlook/sf_training/tree/main/Project_1/README.md#Описание-проекта)
+[2. Какой кейс решаем](https://github.com/Xeniabestlook/sf_training/tree/main/Project_1/README.md#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/Xeniabestlook/sf_training/tree/main/Project_1/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/Xeniabestlook/sf_training/tree/main/Project_1/README.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/Xeniabestlook/sf_training/tree/main/Project_1/README.md#Результат)
+[4. Выводы](https://github.com/Xeniabestlook/sf_training/tree/main/Project_1/README.md#Выводы)
 
 ### Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
 
-&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?
@@ -47,7 +47,7 @@
 
 https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
 
-&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Этапы работы над проектом
 Проект состоить из четырёх частей:
@@ -56,14 +56,14 @@ https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=shari
 3 разведывательный анализ
 4 очистка данных
 
-&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Результат
 .....
 
-&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Выводы
 .....
 
-&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+&uarr; [к оглавлению](https://github.com/Xeniabestlook/sf_training/blob/main/Project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
