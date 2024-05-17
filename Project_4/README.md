@@ -1,4 +1,4 @@
-# Проект 3. EDA + Feature Engineering. Соревнование на Kaggle
+# Проект 4. Задача классификации
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Xeniabestlook/sf_training/tree/main/Project_4/README.md#Описание-проекта)
