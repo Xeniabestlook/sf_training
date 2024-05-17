@@ -1,4 +1,4 @@
-# Проект 1. Анализ вакансий hh с помощью SQL
+# Проект 2. Анализ вакансий hh с помощью SQL
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Xeniabestlook/sf_training/tree/main/Project_2/README.md#Описание-проекта)
